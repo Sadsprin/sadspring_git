@@ -9,4 +9,3 @@ master content
 o2 content
 
 backup
-backup2
