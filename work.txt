@@ -1,5 +1,5 @@
 
-new master
+w master
 
 # title
 master content
